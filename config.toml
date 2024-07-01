@@ -1,0 +1,15 @@
+baseURL = '/'
+defaultContentLanguage = 'uz'
+theme = "etch"
+
+
+[languages]
+  [languages.uz]
+    title = ""
+    languageName = "uz"
+    weight = 1
+  [languages.ru]
+    title = ""
+    languageName = "ru"
+    weight = 2
+
